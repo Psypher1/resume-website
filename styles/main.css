@@ -150,3 +150,18 @@ li {
   margin-bottom: 3em;
   padding-left: 2em;
 }
+
+/* Projects  */
+@media (max-width: 600px) {
+  #wrapper--hero {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    flex-direction: column;
+  }
+
+  .card--work-history {
+    border-left: none;
+    padding-left: 0;
+  }
+}
