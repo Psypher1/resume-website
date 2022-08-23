@@ -151,6 +151,10 @@ li {
   padding-left: 2em;
 }
 
+.card--work-history strong {
+  text-transform: uppercase;
+}
+
 /* Projects  */
 .card--project {
   padding-top: 1em;
