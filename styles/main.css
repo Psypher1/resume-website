@@ -173,7 +173,13 @@ li {
   color: var(--mainLinkColor);
 }
 
-/* MEDIa */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-weight: 300;
+}
+
+/* MEDIA */
 @media (max-width: 600px) {
   #wrapper--hero {
     display: flex;
