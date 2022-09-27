@@ -175,8 +175,10 @@ li {
 
 footer {
   text-align: center;
-  padding: 1.5rem;
+  padding: 1rem 1.5rem;
   font-weight: 300;
+  font-size: 0.9rem;
+  border-top: 2px solid var(--mainBorderColor);
 }
 
 /* MEDIA */
